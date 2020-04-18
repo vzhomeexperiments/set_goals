@@ -11,13 +11,16 @@ Enjoying Template? Then consider to buy me a coffee: https://www.paypal.me/Zhban
 
 ## Goal Setting Template in Excel with UserForm
 
-### Features of the Template:
+### Features and Advantages of the Template:
 
 * Ability to set Short Term, Long Term Goals (Time Bound, Smart, Actionable, etc)
 * Ability to log Activities
 * Ability to archive records
 * Pivot summary table
 * Ability to generate PowerPoint slide with a summary of the goal
+* Much faster than Microsoft Planner
+* Can work locally without internet
+* Can be used by a small team as a work progress tracking tool
 
 ### Limitations:
 
@@ -25,6 +28,7 @@ Enjoying Template? Then consider to buy me a coffee: https://www.paypal.me/Zhban
 * Limited Fail-safe protection - not trained users may break the file by renaming, deleting columns, etc
 * Limited collaboration - better results are expected for personal use
 * Pivot Tables must be manually configured
+* Only 3rd party Datetime picker is available see (Office Uservoice)[https://excel.uservoice.com/forums/304921-excel-for-windows-desktop-application/suggestions/13275054-add-date-picker-to-enable-users-to-select-a-date]
 
 ## Build Procedures
 
